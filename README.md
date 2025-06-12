@@ -9,7 +9,7 @@
 ## 📌 About Me
 
 - 🎓 BCA Undergraduate | Passionate about Web Development  
-- 🔍 Exploring **React.js**, **Node.js**, and **MongoDB**  
+- 🔍 Exploring **MERN STACK**  
 - 💡 I enjoy turning ideas into interactive web applications  
 - 🤝 Open to **collaborations**, **internships**, and continuous learning  
 
