@@ -9,7 +9,7 @@
 ## 📌 About Me
 
 - 🎓 BCA Undergraduate | Passionate about Web Development  
-- 🔍 Exploring **MERN STACK**  
+- 🔍 Exploring **MERN Stack**  
 - 💡 I enjoy turning ideas into interactive web applications  
 - 🤝 Open to **collaborations**, **internships**, and continuous learning  
 
