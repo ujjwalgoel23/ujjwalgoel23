@@ -1,4 +1,4 @@
-                                                          # Hi 👋, I'm Ujjwal Goel
+ Hi 👋, I'm Ujjwal Goel
 
 💻 Currently learning MERN Stack  
 🚀 I love building real-world web projects  
