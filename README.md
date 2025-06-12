@@ -2,8 +2,7 @@
 
 <p align="center">
   💻 Currently learning MERN Stack <br/>
-  🚀 I love building real-world web projects <br/>
-  🎓 BCA 2nd Year Student | Computer Science Enthusiast
+  
 </p>
 
 ---
