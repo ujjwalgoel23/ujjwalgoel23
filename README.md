@@ -2,7 +2,7 @@
 
 💻 Currently learning MERN Stack  
 🚀 I love building real-world web projects  
-🌱 BCA 2nd Year Student | Computer Science Enthusiast  
+🎓 BCA 2nd Year Student | Computer Science Enthusiast  
 
 ---
 
@@ -18,7 +18,9 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-goel-23/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://ujjwalgoel23.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ujjwalgoel23)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-00517B?logo=codechef&logoColor=white)](https://www.codechef.com/users/ujjwalgoel23)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/ujjwalgoel23/)
 
 ---
 
@@ -47,7 +49,8 @@
 
 ## 📢 Quote I Believe In
 
-> *"Don't limit your challenges, challenge your limits."*
+> *"The only way to do great work is to love what you do."*  
+— *Steve Jobs*
 
 ---
 
