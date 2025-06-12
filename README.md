@@ -1,4 +1,4 @@
- Hi 👋, I'm Ujjwal Goel
+# Hi 👋, I'm Ujjwal Goel
 
 💻 Currently learning MERN Stack  
 🚀 I love building real-world web projects  
@@ -9,7 +9,7 @@
 ## 📌 About Me
 
 - 🎓 BCA Undergraduate | Passionate about Web Development  
-- 🔍 Exploring **MERN Stack**
+- 🔍 Exploring **MERN Stack**  
 - 💡 I enjoy turning ideas into interactive web applications  
 - 🤝 Open to **collaborations**, **internships**, and continuous learning  
 
@@ -33,9 +33,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
 </p>
 
 ---
