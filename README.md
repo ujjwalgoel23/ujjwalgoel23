@@ -9,16 +9,16 @@
 ## 📌 About Me
 
 - 🎓 BCA Undergraduate | Passionate about Web Development  
-- 🔍 Exploring MERN STACK  
+- 🔍 Exploring **React.js**, **Node.js**, and **MongoDB**  
 - 💡 I enjoy turning ideas into interactive web applications  
-- 🤝 Always open to **collaborations**, **internships**, and learning opportunities  
+- 🤝 Open to **collaborations**, **internships**, and continuous learning  
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-goel-23/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://ujjwalgoel23.vercel.app)
 
 ---
 
@@ -35,9 +35,9 @@
 
 ## 📊 GitHub Stats
 
-![Ujjwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/your-github-username)
+![Ujjwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjwalgoel23&show_icons=true&theme=radical)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalgoel23&layout=compact&theme=radical)](https://github.com/ujjwalgoel23)
 
 ---
 
-## 🚀 Let's Build Something Amazing Together!
+## 🚀 Let’s Build Something Amazing Together!
