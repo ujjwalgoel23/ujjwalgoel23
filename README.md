@@ -9,7 +9,7 @@
 ## 📌 About Me
 
 - 🎓 BCA Undergraduate | Passionate about Web Development  
-- 🔍 Exploring **MERN Stack**  
+- 🔍 Exploring **MERN Stack**
 - 💡 I enjoy turning ideas into interactive web applications  
 - 🤝 Open to **collaborations**, **internships**, and continuous learning  
 
@@ -17,24 +17,28 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-goel-23/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ujjwalgoel23)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-00517B?logo=codechef&logoColor=white)](https://www.codechef.com/users/ujjwalgoel23)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/ujjwalgoel23/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ujjwal-goel-23/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://twitter.com/ujjwalgoel23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" /></a>
+  <a href="https://www.codechef.com/users/ujjwalgoel23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="CodeChef" height="30" width="30" /></a>
+  <a href="https://leetcode.com/ujjwalgoel23/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="30" width="30" /></a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+</p>
 
 ---
 
