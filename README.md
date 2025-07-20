@@ -23,13 +23,13 @@
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anshika-goel-25b537314/" target="_blank">
+  <a href="https://www.linkedin.com/in/ujjwalgoel01/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/AnshikaGoel11/" target="_blank">
+  <a href="https://leetcode.com/u/ujjwalgoel01/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="30" width="40" alt="LeetCode"/>
   </a>
-  <a href="https://www.codechef.com/users/anshikagoel10" target="_blank">
+  <a href="https://www.codechef.com/users/ujjwal_goel01" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" height="30" width="40" alt="CodeChef"/>
   </a>
    <a href="https://x.com/UjjwalGoel75359" target="_blank">
