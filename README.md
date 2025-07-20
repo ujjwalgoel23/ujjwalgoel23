@@ -21,18 +21,19 @@
 
 ## 🌐 Connect with Me
 
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/ujjwal-goel-23/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  <a href="https://www.linkedin.com/in/anshika-goel-25b537314/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/ujjwalgoel23" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/>
+  <a href="https://leetcode.com/u/AnshikaGoel11/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="30" width="40" alt="LeetCode"/>
   </a>
-  <a href="https://www.codechef.com/users/ujjwalgoel23" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="CodeChef" width="30" height="30"/>
+  <a href="https://www.codechef.com/users/anshikagoel10" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" height="30" width="40" alt="CodeChef"/>
   </a>
-  <a href="https://leetcode.com/ujjwalgoel23/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="30" height="30"/>
+   <a href="https://x.com/UjjwalGoel75359" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="30" width="40" alt="twitter"/>
   </a>
 </p>
 
