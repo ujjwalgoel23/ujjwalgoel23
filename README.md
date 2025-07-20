@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Goel</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ujjwalgoel23&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalgoel23" />
+</p>
+
+<p align="center">
   💻 Currently learning MERN Stack <br/>
-  
 </p>
 
 ---
@@ -44,6 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
 </p>
 
 ---
